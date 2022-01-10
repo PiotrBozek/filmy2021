@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filmy2021/static/css/main.a84d67d1.css",
+    "main.js": "/filmy2021/static/js/main.3e5b1b97.js",
+    "index.html": "/filmy2021/index.html",
+    "main.a84d67d1.css.map": "/filmy2021/static/css/main.a84d67d1.css.map",
+    "main.3e5b1b97.js.map": "/filmy2021/static/js/main.3e5b1b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a84d67d1.css",
+    "static/js/main.3e5b1b97.js"
+  ]
+}
