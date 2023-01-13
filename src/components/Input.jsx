@@ -1,36 +1,21 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 import './Input.css';
 
 const Input = (props) => {
-    const [value, setValue] = useState('');
-
-    // console.log(props)
-
-    const handleChange = (event) => {
-        event.preventDefault();
-        setValue(event.target.value)
-        // console.log(value);
-        // this.props.handleInput(value);
-
-        console.log(value);
+    const handleChange = (e) => {
+        e.preventDefault();
+        props.onFormSubmit(e.target.value);
     }
 
     return (
-
         <div>
             <input
                 type="text"
-                placeholder='szukaj filmu'
-                // value={this.state.value}
+                placeholder='wyszukiwarka filmu'
+                value={props.value}
                 onChange={handleChange}
             />
-            <button
-                type="button"
-                onClick={handleChange}
-            >
-                szukaj
-            </button>
         </div>
     );
 }

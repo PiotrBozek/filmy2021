@@ -2,1368 +2,311 @@
   "items": [
      {
         "key": 1,
-        "namePL": "CZAROWNICA MIŁOŚCI",
-        "nameEN": "The Love Witch"
+        "namePL": "Powrót do tamtych dni",
+        "nameEN": "Powrót do tamtych dni",
+	"director": "Konrad Aksinowicz",
+	"img": "Powrot.jpg"
       },
       {
         "key": 2, 
-        "namePL": "FILONEK BEZOGONEK",
-        "nameEN": "Pelle Svansos"
+        "namePL": "Hiszpański romans",
+        "nameEN": "Rifkin's Festival",
+	"director": "Woody Allen",
+	"img": "Hiszpanskiromans.jpg"
       },
       {
         "key": 3,
-        "namePL": "HELMUT NEWTON. PIĘKNO I BESTIA",
-        "nameEN": "Helmut Newton: The Bad and the Beautiful"
+        "namePL": "Wszystko zostaje w rodzinie",
+        "nameEN": "Lacci",
+	"director": "Daniele Luchetti",
+	"img": "Lacci.jpg"
       },
       {
         "key": 4,
-        "namePL": "SKŁODOWSKA",
-        "nameEN": "Radioactive"
+        "namePL": "Biały potok",
+        "nameEN": "Biały potok",
+	"director": "Michał Grzybowski",
+	"img": "Bialypotok.jpg"
       },
       {
         "key": 5,
-        "namePL": "TYLKO ZWIERZĘTA NIE BŁĄDZĄ",
-        "nameEN": "Seules les betes"
+        "namePL": "Wszystko poszło dobrze",
+        "nameEN": "Tout s'est bien passé",
+	"director": "François Ozon",
+	"img": "Tout_Ozon.jpg"
       },
       {
         "key": 6,
-        "namePL": "PALM SPRINGS",
-        "nameEN": "Palm Springs"
+        "namePL": "Poza prawem",
+        "nameEN": "Down by Law",
+	"director": "Jim Jarmusch",
+	"img": "poza-prawem.jpg"
       },
       {
         "key": 7,
-        "namePL": "ŚCIANA CIENI",
-        "nameEN": "Ściana cieni"
+        "namePL": "C'mon C'mon",
+        "nameEN": "C'mon C'mon",
+	"director": "Mike Mills",
+	"img": "CmonCmon.jpg"
       },
       {
         "key": 8,
-        "namePL": "CO W DUSZY GRA",
-        "nameEN": "Soul"
+        "namePL": "Król Internetu",
+        "nameEN": "Mainstream",
+	"director": "Gia Coppola",
+	"img": "Mainstream.jpg"
       },
       {
         "key": 9,
-        "namePL": "OBIECUJĄCA. MŁODA. KOBIETA",
-        "nameEN": "Promising Young Woman"
+        "namePL": "Oskarżony",
+        "nameEN": "Les Choses humaines",
+	"director": "Yvan Attal",
+	"img": "LesChoseshumaines.jpg"
       },
       {
         "key": 10,
-        "namePL": "SŁUDZY",
-        "nameEN": "Servants"
+        "namePL": "Noc na ziemi",
+        "nameEN": "Night on Earth",
+	"director": "Jim Jarmusch",
+	"img": "NightonEarth.jpg"
       },
       {
         "key": 11,
-        "namePL": "SOUND OF METAL",
-        "nameEN": "Sound of Metal"
+        "namePL": "Matki równoległe",
+        "nameEN": "Madres paralelas",
+	"director": "Pedro Almodóvar",
+	"img": "Madres.jpg"
       },
       {
         "key": 12,
-        "namePL": "SUPERNAUCZYCIELKA",
-        "nameEN": "Superjuffie"
+        "namePL": "Córka",
+        "nameEN": "The Lost Daughter",
+	"director": "Maggie Gyllenhaal",
+	"img": "TheLostDaughter.jpg"
       },
       {
         "key": 13,
-        "namePL": "SZCZĘŚCIARA",
-        "nameEN": "H is for Happiness"
+        "namePL": "Sonata",
+        "nameEN": "Sonata",
+	"director": "Bartosz Blaschke",
+	"img": "Sonata.jpg"
       },
       {
         "key": 14,
-        "namePL": "ZABIJ TO I WYJEDŹ Z TEGO MIASTA",
-        "nameEN": "Zabij to i wyjedź z tego miasta"
+        "namePL": "Drive my car",
+        "nameEN": "Drive my car",
+	"director": "Ryûsuke Hamaguchi",
+	"img": "Drivemycar.jpg"
       },
       {   
         "key": 15,
-        "namePL": "AMONIT",
-        "nameEN": "Ammonite"
+        "namePL": "Truposz",
+        "nameEN": "Dead Man",
+	"director": "Jim Jarmusch",
+	"img": "Truposz.jpg"
       },
       {
         "key": 16,
-        "namePL": "KAŻDY MA SWOJE LATO",
-        "nameEN": "Każdy ma swoje lato"
-
+        "namePL": "Najgorszy człowiek na świecie",
+        "nameEN": "Verdens verste menneske",
+	"director": "Joachim Trier",
+	"img": "Najgorszy.jpg"
       },
       {
         "key": 17,
-        "namePL": "MAGICZNE MUZEUM",
-        "nameEN": "Hurvinek a kouzelne muzeum"
+        "namePL": "Piosenki o miłości",
+        "nameEN": "Piosenki o miłości",
+	"director": "Tomasz Habowski",
+	"img": "Piosenki.jpg"
       },
       {
         "key": 18,
-        "namePL": "MIŁOŚĆ NA PRZEKÓR WSZYSTKIM",
-        "nameEN": "Running for Grace"
+        "namePL": "Marzec'68",
+        "nameEN": "Marzec'68",
+	"director": "Krzysztof Lang",
+	"img": "Marzec.jpg"
       },
       {
         "key": 19,
-        "namePL": "OTO MY",
-        "nameEN": "Here We Are"
+        "namePL": "Kawa i papierosy",
+        "nameEN": "Coffee and Cigarettes",
+	"director": "Jim Jarmusch",
+	"img": "Coffee.jpg"
       },
       {
         "key": 20,
-        "namePL": "DOBRY ŁOTR",
-        "nameEN": "The Penitent Thief"
+        "namePL": "Duch śniegów",
+        "nameEN": "La Panthère des neiges",
+	"director": "Marie Amiguet / Vincent Munier",
+	"img": "laPanthere.jpg"
       },
       {
         "key": 21,
-        "namePL": "JESZCZE JEST CZAS",
-        "nameEN": "Falling"
+        "namePL": "Mała mama",
+        "nameEN": "Petite maman",
+	"director": "Céline Sciamma",
+	"img": "Petite.jpg"
       },
       {
         "key": 22,
-        "namePL": "BIURO DETEKTYWISTYCZNE LASSEGO I MAI. RABUŚ Z POCIĄGU",
-        "nameEN": "LasseMajas detektivbyra - Tagranarens hemlighet"
+        "namePL": "Wszystko wszędzie naraz",
+        "nameEN": "Everything Everywhere All at Once",
+	"director": "Dan Kwan / Daniel Scheinert",
+	"img": "Everything.jpg"
       },
       {
         "key": 23,
-        "namePL": "LUDZKI GŁOS",
-        "nameEN": "The Human Voice"
+        "namePL": "Spragnieni miłości",
+        "nameEN": "Fa yeung nin wa",
+	"director": "Kar Wai Wong",
+	"img": "FaYeung.jpg"
       },
       {
         "key": 24,
-        "namePL": "MARTIN EDEN",
-        "nameEN": "Martin Eden"
+        "namePL": "La Civil",
+        "nameEN": "La Civil",
+	"director": "Teodora Mihai",
+	"img": "LaCivil.jpg"
       },
       {
         "key": 25,
-        "namePL": "NELLY RAPP - UPIORNA AGENTKA",
-        "nameEN": "Nelly Rapp - Monsteragent"
+        "namePL": "Między dwoma światami",
+        "nameEN": "Ouistreham",
+	"director": "Emmanuel Carrère",
+	"img": "Ouistreham.jpg"
       },
       {
         "key": 26,
-        "namePL": "OJCIEC",
-        "nameEN": "The Father"
+        "namePL": "Infinite Storm",
+        "nameEN": "Infinite Storm",
+	"director": "Małgorzata Szumowska",
+	"img": "Infinite.jpg"
       },
       {
         "key": 27,
-        "namePL": "ŚWIAT, KTÓRY NADEJDZIE",
-        "nameEN": "The World to C"
+        "namePL": "Stracone złudzenia",
+        "nameEN": "Illusions perdues",
+	"director": "Xavier Giannoli",
+	"img": "Illusions.jpg"
       },
       {
         "key": 28,
-        "namePL": "AMATORZY",
-        "nameEN": "Amatorzy"
+        "namePL": "Ennio",
+        "nameEN": "Ennio",
+	"director": "Giuseppe Tornatore",
+	"img": "Ennio.jpg"
       },
       {
         "key": 29,
-        "namePL": "CRUELLA",
-        "nameEN": "Cruella"
+        "namePL": "Ninjababy",
+        "nameEN": "Ninjababy",
+	"director": "Yngvild Sve Flikke",
+	"img": "Ninjababy.jpg"
       },
       {
         "key": 30,
-        "namePL": "DRUGA POŁOWA",
-        "nameEN": "Druga połowa"
+        "namePL": "Niewierna",
+        "nameEN": "Avec amour et acharnement",
+	"director": "Claire Denis",
+	"img": "AvecAmour.jpg"
       },
       {
         "key": 31,
-        "namePL": "KRUDOWIE 2: NOWA ERA",
-        "nameEN": "The Croods: A New Age"
+        "namePL": "Vortex",
+        "nameEN": "Vortex",
+	"director": "Gaspar Noe",
+	"img": "Vortex.jpg"
       },
       {
         "key": 32,
-        "namePL": "MORTAL KOMBAT",
-        "nameEN": "MORTAL KOMBAT"
+        "namePL": "Chungking Express",
+        "nameEN": "Chungking Express",
+	"director": "Kar Wai Wong",
+	"img": "Chungking.jpg"
       },
       {
         "key": 33,
-        "namePL": "NOCNY KONWÓJ",
-        "nameEN": "Police"
+        "namePL": "Pasażerowie nocy",
+        "nameEN": "Les passagers de la nuit",
+	"director": "Mikhaël Hers",
+	"img": "LesPassagers.jpg"
       },
       {
         "key": 34,
-        "namePL": "NOMADLAND",
-        "nameEN": "NOMADLAND"
+        "namePL": "Alcarras",
+        "nameEN": "Alcarras",
+	"director": "Carla Simón",
+	"img": "Alcarras.jpg"
       },
       {
         "key": 35,
-        "namePL": "WOLKA",
-        "nameEN": "WOLKA"
+        "namePL": "IO",
+        "nameEN": "IO",
+	"director": "Jerzy Skolimowski",
+	"img": "IO.jpg"
       },
       {
         "key": 36,
-        "namePL": "CICHE MIEJSCE 2",
-        "nameEN": "A Quiet Place Part II"
+        "namePL": "Simona",
+        "nameEN": "Simona",
+	"director": "Natalia Koryncka-Gruz",
+	"img": "Simona.jpg"
       },
       {
         "key": 37,
-        "namePL": "GODZILLA VS. KONG",
-        "nameEN": "GODZILLA VS. KONG"
+        "namePL": "Silent Twins",
+        "nameEN": "Silent Twins",
+	"director": "Agnieszka Smoczyńska",
+	"img": "SilentTwins.jpg"
       },
       {
         "key": 38,
-        "namePL": "JEDEN GNIEWNY CZŁOWIEK",
-        "nameEN": "Wrath of Man"
+        "namePL": "Baby Broker",
+        "nameEN": "Baby Broker",
+	"director": "Hirokazu Koreeda",
+	"img": "BabyBroker.jpg"
       },
       {
         "key": 39,
-        "namePL": "LA GOMERA",
-        "nameEN": "LA GOMERA"
+        "namePL": "Bohater",
+        "nameEN": "Ghahreman",
+	"director": "Asghar Farhadi",
+	"img": "Ghahreman.jpg"
       },
       {
         "key": 40,
-        "namePL": "PROSTE RZECZY",
-        "nameEN": "PROSTE RZECZY"
+        "namePL": "Na pełny etat",
+        "nameEN": "À plein temps",
+	"director": "Eric Gravel",
+	"img": "Plein.jpg"
       },
       {
         "key": 41,
-        "namePL": "SKĄD SIĘ BIORĄ SNY",
-        "nameEN": "Drommebyggerne"
+        "namePL": "Obrazy bez autora",
+        "nameEN": "Werk ohne Autor",
+	"director": "Florian Henckel von Donnersmarck",
+	"img": "Werk.jpg"
       },
       {
         "key": 42,
-        "namePL": "ŚNIEGU JUŻ NIGDY NIE BĘDZIE",
-        "nameEN": "ŚNIEGU JUŻ NIGDY NIE BĘDZIE"
+        "namePL": "Lombard",
+        "nameEN": "Lombard",
+	"director": "Łukasz Kowalski",
+	"img": "Lombard.jpg"
       },
       {   
         "key": 43,
-        "namePL": "WNUKI DLA POCZĄTKUJĄCYCH",
-        "nameEN": "Enkel fur Anfa"
+        "namePL": "Kobieta na dachu",
+        "nameEN": "Kobieta na dachu",
+	"director": "Anna Jadowska",
+	"img": "Kobieta.jpg"
       },
       {
         "key": 44,
-        "namePL": "10 DNI Z TATĄ",
-        "nameEN": "10 jours sans maman"
-
-      },
-      {
-        "key": 45,
-        "namePL": "GENIUSZE",
-        "nameEN": "Adventures of a Mathematician"
-      },
-      {
-        "key": 46,
-        "namePL": "MAGNEZJA",
-        "nameEN": "MAGNEZJA"
-      },
-      {
-        "key": 47,
-        "namePL": "MOTYL I SŁOŃ",
-        "nameEN": "Drole de pere"
-      },
-      {
-        "key": 48,
-        "namePL": "NA RAUSZU",
-        "nameEN": "Druk"
-      },
-      {
-        "key": 49,
-        "namePL": "OBECNOŚĆ 3: NA ROZKAZ DIABŁA",
-        "nameEN": "The Conjuring: The Devil Made Me Do It"
-      },
-      {
-        "key": 50,
-        "namePL": "SPACER Z ANIOŁAMI",
-        "nameEN": "SPACER Z ANIOŁAMI"
-      },
-      {
-        "key": 51,
-        "namePL": "TOM & JERRY",
-        "nameEN": "Tom and Jerry"
-      },
-      {
-        "key": 52,
-        "namePL": "CI, KTÓRZY ŻYCZĄ MI ŚMIERCI",
-        "nameEN": "Those Who Wish Me Dead"
-      },
-      {
-        "key": 53,
-        "namePL": "LUCA",
-        "nameEN": "LUCA"
-      },
-      {
-        "key": 54,
-        "namePL": "MAŁE RZECZY",
-        "nameEN": "The Little Things"
-      },
-      {
-        "key": 55,
-        "namePL": "MINARI",
-        "nameEN": "MINARI"
-      },
-      {
-        "key": 56,
-        "namePL": "PODRÓŻ KSIĘCIA",
-        "nameEN": "Le voyage du prince"
-      },
-      {
-        "key": 57,
-        "namePL": "MOJA KOCHANA VIVIAN",
-        "nameEN": "My Darling Vivian"
-      },
-      {
-        "key": 58,
-        "namePL": "NAJLEPSZE LATA",
-        "nameEN": "Gli anni piu belli"
-      },
-      {
-        "key": 59,
-        "namePL": "OSTATNI KOMERS",
-        "nameEN": "OSTATNI KOMERS"
-      },
-      {
-        "key": 60,
-        "namePL": "PARYSKIE TANGO",
-        "nameEN": "Sol"
-      },
-      {
-        "key": 61,
-        "namePL": "PIOTRUŚ KRÓLIK 2: NA GIGANCIE",
-        "nameEN": "Peter Rabbit 2: The Runaway"
-      },
-      {
-        "key": 62,
-        "namePL": "SPIRALA: NOWY ROZDZIAŁ SERII PIŁA",
-        "nameEN": "Spiral: From the Book of Saw"
-      },
-      {
-        "key": 63,
-        "namePL": "SWEAT",
-        "nameEN": "SWEAT"
-      },
-      {
-        "key": 64,
-        "namePL": "W JAK MORDERSTWO",
-        "nameEN": "W JAK MORDERSTWO"
-      },
-      {
-        "key": 65,
-        "namePL": "WESELE",
-        "nameEN": "A Simple Wedding"
-      },
-      {
-        "key": 66,
-        "namePL": "CIOTKA HITLERA",
-        "nameEN": "CIOTKA HITLERA"
-      },
-      {
-        "key": 67,
-        "namePL": "KAPITAN SZABLOZĘBY I MAGICZNY DIAMENT",
-        "nameEN": "Kaptein Sabeltann og den magiske diamant"
-      },
-      {
-        "key": 68,
-        "namePL": "LATO 85",
-        "nameEN": "Ete 85"
-      },
-      {
-        "key": 69,
-        "namePL": "MIASTO",
-        "nameEN": "MIASTO"
-      },
-      {   
-        "key": 70,
-        "namePL": "NIEPAMIĘĆ",
-        "nameEN": "Mila"
-      },
-      {
-        "key": 71,
-        "namePL": "SUPERNOVA",
-        "nameEN": "SUPERNOVA"
-
-      },
-      {
-        "key": 72,
-        "namePL": "SZYBCY I WŚCIEKLI 9",
-        "nameEN": "Fast & Furious 9"
-      },
-      {
-        "key": 73,
-        "namePL": "AŻ DO ŚMIERCI",
-        "nameEN": "Till Death"
-      },
-      {
-        "key": 74,
-        "namePL": "BODYGUARD I ŻONA ZAWODOWCA",
-        "nameEN": "Hitman's Wife's Bodyguard"
-      },
-      {
-        "key": 75,
-        "namePL": "FRITZI - PRZYJAŹŃ BEZ GRANIC",
-        "nameEN": "Fritzi: Eine Wendewundergeschichte"
-      },
-      {
-        "key": 76,
-        "namePL": "LOKAL ZAMKNIĘTY",
-        "nameEN": "LOKAL ZAMKNIĘTY"
-      },
-      {
-        "key": 77,
-        "namePL": "MUSTANG Z DZIKIEJ DOLINY: DROGA DO WOLNOŚCI",
-        "nameEN": "Spirit Untamed"
-      },
-      {
-        "key": 78,
-        "namePL": "NIKT",
-        "nameEN": "Nobody"
-      },
-      {
-        "key": 79,
-        "namePL": "RAYA I OSTATNI SMOK",
-        "nameEN": "Raya and the Last Dragon"
-      },
-      {
-        "key": 80,
-        "namePL": "SANKTUARIUM",
-        "nameEN": "The Unholy"
-      },
-      {
-        "key": 81,
-        "namePL": "W CO GRAJĄ LUDZIE",
-        "nameEN": "Seurapeli"
-      },
-      {
-        "key": 82,
-        "namePL": "WRÓG DOSKONAŁY",
-        "nameEN": "A Perfect Enemy"
-      },
-      {
-        "key": 83,
-        "namePL": "CUDAK",
-        "nameEN": "CUDAK"
-      },
-      {
-        "key": 84,
-        "namePL": "CZARNA WDOWA",
-        "nameEN": "Black Widow"
-      },
-      {
-        "key": 85,
-        "namePL": "DNA",
-        "nameEN": "ADN"
-      },
-      {
-        "key": 86,
-        "namePL": "ELFINKI",
-        "nameEN": "Die Heinzels - Ruckkehr der Heinzelmannchen"
-      },
-      {
-        "key": 87,
-        "namePL": "JAK WYWOŁAŁEM BYŁĄ ŻONĘ",
-        "nameEN": "Blithe Spirit"
-      },
-      {
-        "key": 88,
-        "namePL": "PIOTRUŚ PAN I ALICJA W KRAINIE CZARÓW",
-        "nameEN": "Come Away"
-      },
-      {
-        "key": 89,
-        "namePL": "ŚCIEMA PO POLSKU",
-        "nameEN": "ŚCIEMA PO POLSKU"
-      },
-      {
-        "key": 90,
-        "namePL": "BERLIN ALEXANDERPLATZ",
-        "nameEN": "BERLIN ALEXANDERPLATZ"
-      },
-      {
-        "key": 91,
-        "namePL": "CREATION STORIES",
-        "nameEN": "CREATION STORIES"
-      },
-      {
-        "key": 92,
-        "namePL": "CWANIAKI Z HOLLYWOOD",
-        "nameEN": "The Comeback Trail"
-      },
-      {
-        "key": 93,
-        "namePL": "ELLA BELLA BINGO",
-        "nameEN": "Elleville Elfrid"
-      },
-      {
-        "key": 94,
-        "namePL": "ESCAPE ROOM: NAJLEPSI Z NAJLEPSZYCH",
-        "nameEN": "Escape Room: Tournament of Champions"
-      },
-      {
-        "key": 95,
-        "namePL": "KOSMICZNY MECZ: NOWA ERA",
-        "nameEN": "Space Jam: A New Legacy"
-      },
-      {
-        "key": 96,
-        "namePL": "ŚWIĘTA, ŚWIĘTA I PO ŚWIĘTACH",
-        "nameEN": "Tres Veroes"
-      },
-      {
-        "key": 97,
-        "namePL": "TAJEMNICA SIÓSTR SPRITE",
-        "nameEN": "Sprite Sisters - Vier zauberhafte Schwestern"
-      },
-      {   
-        "key": 98,
-        "namePL": "ŻUŻEL",
-        "nameEN": "ŻUŻEL"
-      },
-      {
-        "key": 99,
-        "namePL": "EFEKT MOTYLKA",
-        "nameEN": "EFEKT MOTYLKA"
-
-      },
-      {
-        "key": 100,
-        "namePL": "KRAINA SMOKÓW",
-        "nameEN": "Dragon Rider"
-      },
-      {
-        "key": 101,
-        "namePL": "MAŁŻEŃSTWO NA SKRÓTY",
-        "nameEN": "Long Story Short"
-      },
-      {
-        "key": 102,
-        "namePL": "NOC OCZYSZCZENIA. ŻEGNAJ AMERYKO",
-        "nameEN": "The Forever Purge"
-      },
-      {
-        "key": 103,
-        "namePL": "PO ZŁOTO. HISTORIA WŁADYSŁAWA KOZAKIEWICZA",
-        "nameEN": "PO ZŁOTO. HISTORIA WŁADYSŁAWA KOZAKIEWICZA"
-      },
-      {
-        "key": 104,
-        "namePL": "SNAKE EYES. GENEZA G.I. JOE",
-        "nameEN": "Snake Eyes: G.I. Joe Origins"
-      },
-      {
-        "key": 105,
-        "namePL": "WOJNA Z DZIADKIEM",
-        "nameEN": "War with Grandpa"
-      },
-      {
-        "key": 106,
-        "namePL": "INTRUZ",
-        "nameEN": "El Profugo"
-      },
-      {
-        "key": 107,
-        "namePL": "METAMORFOZA PTAKÓW",
-        "nameEN": "A metamorfose dos passaros"
-      },
-      {
-        "key": 108,
-        "namePL": "OLD",
-        "nameEN": "OLD"
-      },
-      {
-        "key": 109,
-        "namePL": "REPUBLIKA DZIECI",
-        "nameEN": "REPUBLIKA DZIECI"
-      },
-      {
-        "key": 110,
-        "namePL": "SUSZA",
-        "nameEN": "The Dry"
-      },
-      {
-        "key": 111,
-        "namePL": "WESELNY TOAST",
-        "nameEN": "Le discours"
-      },
-	    {
-        "key": 112,
-        "namePL": "WILCZY GANG",
-        "nameEN": "Die Wolf-Gang"
-      },
-      {
-        "key": 113, 
-        "namePL": "WYPRAWA DO DŻUNGLI",
-        "nameEN": "Jungle Cruise"
-      },
-      {
-        "key": 114,
-        "namePL": "ZIELONY RYCERZ. GREEN KNIGHT",
-        "nameEN": "The Green Knight"
-      },
-      {
-        "key": 115,
-        "namePL": "KLĄTWA MŁODOŚCI",
-        "nameEN": "The Reckoning"
-      },
-      {
-        "key": 116,
-        "namePL": "LEGION SAMOBÓJCÓW. THE SUICIDE SQUAD",
-        "nameEN": "The Suicide Squad"
-      },
-      {
-        "key": 117,
-        "namePL": "PIĘKNA I RZEŹNIK",
-        "nameEN": "Freaky"
-      },
-      {
-        "key": 118,
-        "namePL": "CZARNA OWCA",
-        "nameEN": "CZARNA OWCA"
-      },
-      {
-        "key": 119,
-        "namePL": "EGZORCYZMY DNIA SIÓDMEGO",
-        "nameEN": "The Seventh Day"
-      },
-      {
-        "key": 120,
-        "namePL": "FREE GUY",
-        "nameEN": "FREE GUY"
-      },
-      {
-        "key": 121,
-        "namePL": "HOLIDAY",
-        "nameEN": "HOLIDAY"
-      },
-      {
-        "key": 122,
-        "namePL": "MOJA CUDOWNA WANDA",
-        "nameEN": "Wanda, mein Wunder"
-      },
-      {
-        "key": 123,
-        "namePL": "MÓJ BRAT ŚCIGA DINOZAURY",
-        "nameEN": "Mio fratello rincorre i dinosauri"
-      },
-      {
-        "key": 124,
-        "namePL": "NIE ODDYCHAJ 2",
-        "nameEN": "Don't Breathe 2"
-      },
-      {
-        "key": 125,
-        "namePL": "OPERACJA MUMIA",
-        "nameEN": "Operasjon Mumie"
-      },
-      {   
-        "key": 126,
-        "namePL": "WIDZIMY SIĘ WCZORAJ",
-        "nameEN": "Hallo Again"
-      },
-      {
-        "key": 127,
-        "namePL": "WYROLOWANI",
-        "nameEN": "Extinct"
-      },
-      {
-        "key": 128,
-        "namePL": "ANNETTE",
-        "nameEN": "ANNETTE"
-      },
-      {
-        "key": 129,
-        "namePL": "DOM NOCNY",
-        "nameEN": "The Night House"
-      },
-      {
-        "key": 130,
-        "namePL": "LASSIE, WRÓĆ!",
-        "nameEN": "Lassie - Eine abenteuerliche Reise"
-      },
-      {
-        "key": 131,
-        "namePL": "POLAŃSKI, HOROWITZ. HOMETOWN",
-        "nameEN": "POLAŃSKI, HOROWITZ. HOMETOWN"
-      },
-      {
-        "key": 132,
-        "namePL": "REMINISCENCJA",
-        "nameEN": "Reminiscence"
-      },
-      {
-        "key": 133,
-        "namePL": "THE END",
-        "nameEN": "THE END"
-      },
-      {
-        "key": 134,
-        "namePL": "USŁANE RÓŻAMI",
-        "nameEN": "The Rose Maker"
-      },
-      {
-        "key": 135,
-        "namePL": "BINTI",
-        "nameEN": "BINTI"
-      },
-      {
-        "key": 136,
-        "namePL": "CANDYMAN",
-        "nameEN": "CANDYMAN"
-      },
-      {
-        "key": 137,
-        "namePL": "CZARNY MŁYN",
-        "nameEN": "CZARNY MŁYN"
-      },
-      {
-        "key": 138,
-        "namePL": "KRAJ",
-        "nameEN": "KRAJ"
-      },
-      {
-        "key": 139,
-        "namePL": "MISTRZ",
-        "nameEN": "MISTRZ"
-      },
-	    {
-        "key": 140,
-        "namePL": "O NIESKOŃCZONOŚCI",
-        "nameEN": "Om det oandliga"
-      },
-      {
-        "key": 141,
-        "namePL": "ZABÓJCZY KOKTAJL",
-        "nameEN": "Gunpowder Milkshake"
-      },
-      {
-        "key": 142,
-        "namePL": "AFTER. OCAL MNIE",
-        "nameEN": "After We Fell"
-      },
-      {
-        "key": 143,
-        "namePL": "KLUB BRZYDKICH DZIECI",
-        "nameEN": "De club van lelijke kinderen"
-      },
-      {
-        "key": 144,
-        "namePL": "PSI PATROL: FILM",
-        "nameEN": "Paw Patrol: The Movie"
-      },
-      {
-        "key": 145,
-        "namePL": "SHANG-CHI I LEGENDA DZIESIĘCIU PIERŚCIENI",
-        "nameEN": "Shang-Chi and the Legend of the Ten Rings"
-      },
-      {
-        "key": 146,
-        "namePL": "TAJEMNICE SAINT TROPEZ",
-        "nameEN": "Mystere e Saint-Tropez"
-      },
-      {
-        "key": 147,
-        "namePL": "ANTYBOHATER",
-        "nameEN": "ANTYBOHATER"
-      },
-      {
-        "key": 148,
-        "namePL": "SMALL WORLD",
-        "nameEN": "SMALL WORLD"
-      },
-      {
-        "key": 149,
-        "namePL": "TEŚCIOWIE",
-        "nameEN": "TEŚCIOWIE"
-      },
-      {
-        "key": 150,
-        "namePL": "WCIELENIE",
-        "nameEN": "Malignant"
-      },
-      {
-        "key": 151,
-        "namePL": "WSZYSCY ZA JEDNEGO",
-        "nameEN": "Flukten over grensen"
-      },
-      {
-        "key": 152,
-        "namePL": "ZŁE BAŚNIE",
-        "nameEN": "Favolacce"
-      },
-      {
-        "key": 153,
-        "namePL": "A-HA",
-        "nameEN": "a-ha: The Movie"
-      },
-      {   
-        "key": 154,
-        "namePL": "AIDA",
-        "nameEN": "Quo vadis, Aida?"
-      },
-      {
-        "key": 155,
-        "namePL": "JESTEM GRETA",
-        "nameEN": "I Am Greta"
-      },
-      {
-        "key": 156,
-        "namePL": "MAŁA WIELKA STOPA 2: W RODZINIE SIŁA",
-        "nameEN": "Bigfoot Family"
-      },
-      {
-        "key": 157,
-        "namePL": "NAJMRO. KOCHA, KRADNIE, SZANUJE",
-        "nameEN": "NAJMRO. KOCHA, KRADNIE, SZANUJE"
-      },
-      {
-        "key": 158,
-        "namePL": "PAN PATYK I MORSKI POTWÓR",
-        "nameEN": "Knerten og sjoormen"
-      },
-      {
-        "key": 159,
-        "namePL": "WYSZYŃSKI - ZEMSTA CZY PRZEBACZENIE",
-        "nameEN": "WYSZYŃSKI - ZEMSTA CZY PRZEBACZENIE"
-      },
-      {
-        "key": 160,
-        "namePL": "JAK ROZMAWIAĆ Z PSEM",
-        "nameEN": "Think Like a Dog"
-      },
-      {
-        "key": 161,
-        "namePL": "JEŹDŹCY SPRAWIEDLIWOŚCI",
-        "nameEN": "Retfaerdighedens ryttere"
-      },
-      {
-        "key": 162,
-        "namePL": "JINPA",
-        "nameEN": "Zhuang si le yi zhi yang"
-      },
-      {
-        "key": 163,
-        "namePL": "NIEFORTUNNY NUMEREK LUB SZALONE PORNO",
-        "nameEN": "Babardeala cu bucluc sau porno balamuc"
-      },
-      {
-        "key": 164,
-        "namePL": "UNDINE",
-        "nameEN": "UNDINE"
-      },
-      {
-        "key": 165,
-        "namePL": "ŻEBY NIE BYŁO ŚLADÓW",
-        "nameEN": "ŻEBY NIE BYŁO ŚLADÓW"
-      },
-      {
-        "key": 166,
-        "namePL": "CZŁOWIEK, KTÓRY SPRZEDAŁ SWOJĄ SKÓRĘ",
-        "nameEN": "The Man Who Sold His Skin"
-      },
-      {
-        "key": 167,
-        "namePL": "FATIMA",
-        "nameEN": "FATIMA"
-      },
-      {
-        "key": 168,
-        "namePL": "GAGARINE",
-        "nameEN": "GAGARINE"
-      },
-      {
-        "key": 169,
-        "namePL": "GUNDA",
-        "nameEN": "GUNDA"
-      },
-      {
-        "key": 170,
-        "namePL": "NIE CZAS UMIERAĆ",
-        "nameEN": "No Time to Die"
-      },
-      {
-        "key": 171,
-        "namePL": "RODZINKA RZĄDZI",
-        "nameEN": "The Boss Baby: Family Business"
-      },
-      {
-        "key": 172,
-        "namePL": "VIGGO I GADAJĄCA GĘŚ",
-        "nameEN": "Gooseboy"
-      },
-      {
-        "key": 173,
-        "namePL": "DYSKRETNY UROK NIEBEZPIECZNYCH MYŚLI",
-        "nameEN": "Les choses qu'on dit, les choses qu'on fait"
-      },
-      {
-        "key": 174,
-        "namePL": "KOMEDIANCI DEBIUTANCI",
-        "nameEN": "Un triomphe"
-      },
-      {
-        "key": 175,
-        "namePL": "PENGUIN BLOOM: NIESAMOWITA HISTORIA SAM BLOOM",
-        "nameEN": "Penguin Bloom"
-      },
-      {
-        "key": 176,
-        "namePL": "SMAK GŁODU",
-        "nameEN": "Smagen af sult"
-      },
-      {
-        "key": 177,
-        "namePL": "WESELE",
-        "nameEN": "WESELE"
-      },
-      {
-        "key": 178,
-        "namePL": "WILK NA 100%",
-        "nameEN": "100% Wolf"
-      },
-      {
-        "key": 179,
-        "namePL": "AINBO - STRAŻNICZKA AMAZONII",
-        "nameEN": "Ainbo: Spirit of the Amazon"
-      },
-      {
-        "key": 180,
-        "namePL": "NOTTURNO",
-        "nameEN": "NOTTURNO"
-      },
-      {
-        "key": 181,
-        "namePL": "NOWY PORZĄDEK",
-        "nameEN": "Nuevo orden"
-      },
-      {   
-        "key": 182,
-        "namePL": "OSTATNI POJEDYNEK",
-        "nameEN": "The Last Duel"
-      },
-      {
-        "key": 183,
-        "namePL": "VENOM 2: CARNAGE",
-        "nameEN": "Venom: Let There Be Carnage"
-      },
-      {
-        "key": 184,
-        "namePL": "WYSPA BERGMANA",
-        "nameEN": "Bergman Island"
-      },
-      {
-        "key": 185,
-        "namePL": "DIUNA",
-        "nameEN": "Dune"
-      },
-      {
-        "key": 186,
-        "namePL": "FURIOZA",
-        "nameEN": "FURIOZA"
-      },
-      {
-        "key": 187,
-        "namePL": "HALLOWEEN ZABIJA",
-        "nameEN": "Halloween Kills"
-      },
-      {
-        "key": 188,
-        "namePL": "LUX AETERNA",
-        "nameEN": "Lux Aeterna"
-      },
-      {
-        "key": 189,
-        "namePL": "NARCYZ I ZŁOTOUSTY",
-        "nameEN": "Narziss und Goldmund"
-      },
-      {
-        "key": 190,
-        "namePL": "PLEASURE",
-        "nameEN": "PLEASURE"
-      },
-      {
-        "key": 191,
-        "namePL": "RODZINA ADDAMSÓW 2",
-        "nameEN": "The Addams Family 2"
-      },
-      {
-        "key": 192,
-        "namePL": "RON USTERKA",
-        "nameEN": "Ron's Gone Wrong"
-      },
-      {
-        "key": 193,
-        "namePL": "CENSOR",
-        "nameEN": "CENSOR"
-      },
-      {
-        "key": 194,
-        "namePL": "FARMA",
-        "nameEN": "The Farm"
-      },
-      {
-        "key": 195,
-        "namePL": "HALLOWEEN PARTY",
-        "nameEN": "HALLOWEEN PARTY"
-      },
-      {
-        "key": 196,
-        "namePL": "MOJE WSPANIAŁE ŻYCIE",
-        "nameEN": "Moje wspaniałe życie"
-      },
-      {
-        "key": 197,
-        "namePL": "MOSQUITO STATE",
-        "nameEN": "Mosquito State"
-      },
-      {
-        "key": 198,
-        "namePL": "MÓJ PRZYJACIEL WAMPIR",
-        "nameEN": "Petit vampire"
-      },
-      {
-        "key": 199,
-        "namePL": "OSTATNIEJ NOCY W SOHO",
-        "nameEN": "Last Night in Soho"
-      },
-      {
-        "key": 200,
-        "namePL": "PAMIĘTNIK BERTA",
-        "nameEN": "Berts dagbok"
-      },
-      {
-        "key": 201,
-        "namePL": "POROŻE",
-        "nameEN": "Antlers"
-      },
-      {
-        "key": 202,
-        "namePL": "POUFNE LEKCJE PERSKIEGO",
-        "nameEN": "Persian Lessons"
-      },
-      {
-        "key": 203,
-        "namePL": "TYLKO NIE ZAŚNIJ",
-        "nameEN": "Ya ne splyu"
-      },
-      {
-        "key": 204,
-        "namePL": "WSZYSCY ŚWIĘCI NEW JERSEY",
-        "nameEN": "The Many Saints of Newark"
-      },
-      {
-        "key": 205,
-        "namePL": "ETERNALS",
-        "nameEN": "The Eternals"
-      },
-      {
-        "key": 206,
-        "namePL": "LADA DZIEŃ",
-        "nameEN": "Ensilumi"
-      },
-      {
-        "key": 207,
-        "namePL": "OBŁOKI ŚMIERCI. BOLIMÓW 1915",
-        "nameEN": "OBŁOKI ŚMIERCI. BOLIMÓW 1915"
-      },
-      {
-        "key": 208,
-        "namePL": "SPENCER",
-        "nameEN": "SPENCER"
-      },
-      {
-        "key": 209,
-        "namePL": "ŚMIERĆ ZYGIELBOJMA",
-        "nameEN": "Śmierć Zygielbojma"
-      },
-      {   
-        "key": 210,
-        "namePL": "TO MUSI BYĆ MIŁOŚĆ",
-        "nameEN": "TO MUSI BYĆ MIŁOŚĆ"
-      },
-      {
-        "key": 211,
-        "namePL": "WSZYSTKIE NASZE STRACHY",
-        "nameEN": "WSZYSTKIE NASZE STRACHY"
-      },
-      {
-        "key": 212,
-        "namePL": "ZŁO NIE ISTNIEJE",
-        "nameEN": "Sheytan vojud nadarad"
-      },
-      {
-        "key": 213,
-        "namePL": "ALINE. GŁOS MIŁOŚCI",
-        "nameEN": "Aline, The Voice of Love"
-      },
-      {
-        "key": 214,
-        "namePL": "PITBULL",
-        "nameEN": "PITBULL"
-      },
-      {
-        "key": 215,
-        "namePL": "PSZCZÓŁKA MAJA: MAŁY WIELKI SKARB",
-        "nameEN": "Maya the Bee 3: The Golden Orb"
-      },
-      {
-        "key": 216,
-        "namePL": "438 DNI",
-        "nameEN": "438 dagar"
-      },
-      {
-        "key": 217,
-        "namePL": "NĘDZARZ I MADAME",
-        "nameEN": "Nędzarz i madame"
-      },
-      {
-        "key": 218,
-        "namePL": "TY JESTEŚ NASTĘPNA",
-        "nameEN": "Seance"
-      },
-      {
-        "key": 219,
-        "namePL": "UCIECZKA NA SREBRNY GLOB",
-        "nameEN": "UCIECZKA NA SREBRNY GLOB"
-      },
-      {
-        "key": 220,
-        "namePL": "WICHER. OSTATNI ROZDZIAŁ",
-        "nameEN": "Ostwind - Der grosse Orkan"
-      },
-      {
-        "key": 221,
-        "namePL": "BO WE MNIE JEST SEKS",
-        "nameEN": "BO WE MNIE JEST SEKS"
-      },
-      {
-        "key": 222,
-        "namePL": "DAU. NATASZA",
-        "nameEN": "DAU. NATASZA"
-      },
-      {
-        "key": 223,
-        "namePL": "FURIA",
-        "nameEN": "FURIA"
-      },
-{
-        "key": 224,
-        "namePL": "GWIAZDKA KLARY MUU",
-        "nameEN": "Jul Pa Kutoppen"
-      },
-      {
-        "key": 225, 
-        "namePL": "KURIER FRANCUSKI Z LIBERTY, KANSAS EVENING SUN",
-        "nameEN": "The French Dispatch"
-      },
-      {
-        "key": 226,
-        "namePL": "MIKOŁAJ W KAŻDYM Z NAS 2",
-        "nameEN": "Snekker Andersen og den vesle bygda som glomte at det var jul"
-      },
-      {
-        "key": 227,
-        "namePL": "POGROMCY DUCHÓW. DZIEDZICTWO",
-        "nameEN": "Ghostbusters: Afterlife"
-      },
-      {
-        "key": 228,
-        "namePL": "ŚWIĄTECZNA WYPRAWA PANA PATYKA",
-        "nameEN": "Ekspedisjon Knerten"
-      },
-      {
-        "key": 229,
-        "namePL": "WILK, LEW I JA",
-        "nameEN": "Le loup et le lion"
-      },
-      {
-        "key": 230,
-        "namePL": "WSZYSTKO ZOSTAJE W RODZINIE",
-        "nameEN": "Lacci"
-      },
-      {
-        "key": 231,
-        "namePL": "ZWYCIĘSTWO. POWSTANIE WIELKOPOLSKIE 1918-1919",
-        "nameEN": "ZWYCIĘSTWO. POWSTANIE WIELKOPOLSKIE 1918-1919"
-      },
-      {
-        "key": 232,
-        "namePL": "DOM GUCCI",
-        "nameEN": "House of Gucci"
-      },
-      {
-        "key": 233,
-        "namePL": "DZIEWCZYNY Z DUBAJU",
-        "nameEN": "DZIEWCZYNY Z DUBAJU"
-      },
-      {
-        "key": 234,
-        "namePL": "NASZE MAGICZNE ENCANTO",
-        "nameEN": "Encanto"
-      },
-      {
-        "key": 235,
-        "namePL": "BALLADA O BIAŁEJ KROWIE",
-        "nameEN": "Ballad of a White Cow"
-      },
-      {
-        "key": 236,
-        "namePL": "CHŁOPIEC Z CHMUR",
-        "nameEN": "Donne-moi des ailes"
-      },
-      {
-        "key": 237,
-        "namePL": "CLIFFORD. WIELKI CZERWONY PIES",
-        "nameEN": "Clifford the Big Red Dog"
-      },
-      {   
-        "key": 238,
-        "namePL": "KING RICHARD: ZWYCIĘSKA RODZINA",
-        "nameEN": "King Richard"
-      },
-      {
-        "key": 239,
-        "namePL": "LOKATORKA",
-        "nameEN": "LOKATORKA"
-      },
-      {
-        "key": 240,
-        "namePL": "NOC KRÓLÓW",
-        "nameEN": "La nuit des rois"
-      },
-      {
-        "key": 241,
-        "namePL": "RESIDENT EVIL: WITAJCIE W RACCOON CITY",
-        "nameEN": "Resident Evil: Welcome to Raccoon City"
-      },
-      {
-        "key": 242,
-        "namePL": "SZEF ROKU",
-        "nameEN": "El buen patron"
-      },
-      {
-        "key": 243,
-        "namePL": "1970",
-        "nameEN": "1970"
-      },
-      {
-        "key": 244,
-        "namePL": "BIAŁY POTOK",
-        "nameEN": "BIAŁY POTOK"
-      },
-      {
-        "key": 245,
-        "namePL": "FANTAZJE",
-        "nameEN": "Les fantasmes"
-      },
-      {
-        "key": 246,
-        "namePL": "NOSOROŻEC",
-        "nameEN": "Nosorih"
-      },
-      {
-        "key": 247,
-        "namePL": "POWRÓT DO TAMTYCH DNI",
-        "nameEN": "POWRÓT DO TAMTYCH DNI"
-      },
-      {
-        "key": 248,
-        "namePL": "PSYCHO GOREMAN",
-        "nameEN": "PSYCHO GOREMAN"
-      },
-      {
-        "key": 249,
-        "namePL": "WEST SIDE STORY",
-        "nameEN": "WEST SIDE STORY"
-      },
-      {
-        "key": 250,
-        "namePL": "IM DALEJ W LAS, TYM WIĘCEJ DRZEW",
-        "nameEN": "Rengeteg - Mindenhol latlak"
-      },
-      {
-        "key": 251,
-        "namePL": "JAK OCALIĆ SMOKA",
-        "nameEN": "Dragevokteren"
-      },
-      {
-        "key": 252,
-        "namePL": "MISIEK: EKIPA NA WAKACJACH",
-        "nameEN": "Norm of the North: Family Vacation"
-      },
-      {
-        "key": 253,
-        "namePL": "PACZKA",
-        "nameEN": "Smecka"
-      },
-      {
-        "key": 254,
-        "namePL": "SPIDER-MAN. BEZ DROGI DO DOMU",
-        "nameEN": "Spider-Man: No Way Home"
-      },
-      {
-        "key": 255,
-        "namePL": "SUMMER OF SOUL",
-        "nameEN": "SUMMER OF SOUL"
-      },
-      {
-        "key": 256,
-        "namePL": "ZIELONA SZKOŁA. OGRÓD SZKOLNY",
-        "nameEN": "De Schooltuin"
-      },
-      {
-        "key": 257,
-        "namePL": "MATRIX ZMARTWYCHWSTANIA",
-        "nameEN": "The Matrix Resurrections"
-      },
-      {
-        "key": 258,
-        "namePL": "EMMA I ŚWIĘTY MIKOŁAJ",
-        "nameEN": "Emma &Julemanden: Jagten pa elverdronningens hjerte"
-      },
-      {
-        "key": 259,
-        "namePL": "HISZPAŃSKI ROMANS",
-        "nameEN": "Rifkin's Festival"
-      },
-      {
-        "key": 260,
-        "namePL": "JAK ZOSTAĆ ŚWIĘTYM MIKOŁAJEM 2",
-        "nameEN": "Julemandens datter 2"
-      },
-      {
-        "key": 261,
-        "namePL": "KOCHANKOWIE",
-        "nameEN": "Amants"
-      },
-      {
-        "key": 262,
-        "namePL": "ODKUPIENIE",
-        "nameEN": "Mass"
-      },
-      {
-        "key": 263,
-        "namePL": "TRUFLARZE",
-        "nameEN": "The Truffle Hunters"
-      },
-      {
-        "key": 264,
-        "namePL": "STRASZNE HISTORIE",
-        "nameEN": "Scare Us"
-      },
-      {
-        "key": 265,
-        "namePL": "W 80 DNI DOOKOŁA ŚWIATA",
-        "nameEN": "Around the World in 80 Days"
-      },
-      {   
-        "key": 266,
-        "namePL": "ALBATROS",
-        "nameEN": "ALBATROS"
-      },
-      {
-        "key": 267,
-        "namePL": "LAMB",
-        "nameEN": "LAMB"
-
-      },
-      {
-        "key": 268,
-        "namePL": "LICORICE PIZZA",
-        "nameEN": "LICORICE PIZZA"
-      },
-      {
-        "key": 269,
-        "namePL": "ZUPA NIC",
-        "nameEN": "ZUPA NIC"
-      },
-      {
-        "key": 270,
-        "namePL": "THE HAND OF GOD",
-        "nameEN": "THE HAND OF GOD"
-      },
-      {
-        "key": 271,
-        "namePL": "PSIE PAZURY",
-        "nameEN": "The Power of the Dog"
-      },
-      {
-        "key": 272,
-        "namePL": "NIE PATRZ W GÓRĘ",
-        "nameEN": "Don't Look Up"
+        "namePL": "Heavy Trip",
+        "nameEN": "Hevi reissu",
+	"director": "Juuso Laatio, Jukka Vidgren",
+	"img": "Heavy.jpg"
       }
     ]
 }

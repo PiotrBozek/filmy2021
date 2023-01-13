@@ -1,28 +1,31 @@
 import React, { useState } from 'react';
 import Items from './components/Items.jsx';
-import Input from './components/Input.jsx'
+import Input from './components/Input.jsx';
 
 import './App.css';
 import DATA from './mocks/API_DATA.json';
 
-
 const App = () => {
 
   const [data, setData] = useState(DATA);
-  const [change, setChange] = useState('');
+  const [val, setVal] = useState('');
 
-  const onValueSubmit = (event) => {
-  // console.log(this.value)
+  const onValueSubmit = (e) => {
+  setVal(e); 
+  const items = DATA.items.filter(item => item.namePL.includes(e.toLocaleUpperCase()));
+  setData({items});
   }
 
   return (
     <div className="App">
       <header>
-        <h1>Filmy <span>2021</span> na które można głosować</h1>
-        {/* <Input onFormSubmit = {this.onValueSubmit} /> */}
+        <h1>Filmy, które były puszczane w DKF'ie 'Drewniany koń' w <span>2022</span> roku</h1>
+        {/* <Input 
+        value = {val}
+        onFormSubmit = {onValueSubmit} 
+        /> */}
       </header>
-
-      <main>
+      <main className='containerApp'>
         <Items data = {data} />
       </main>
       

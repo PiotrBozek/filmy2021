@@ -1,25 +1,22 @@
 import React from 'react';
 
+// import logo from '../../public/img/Heavy.jpg';
 import './Item.css';
 
-// import {  Card } from 'react-bootstrap';
+const Item = ({ item }) => {
 
-const Item = ({data}) => {
-
-    const sortData = data.items.sort((a, b) => (a.namePL > b.namePL) ? 1 : ((b.namePL > a.namePL) ? -1 : 0))
     
-    const datas = sortData.map((item) => {
-        return(
-        <p key={item.key}>{item.namePL.toUpperCase()} - {item.nameEN.toLowerCase()}</p>
-        )})
 
     return (
-         <div>
-            {datas}
-         </div>
+        <div className='box-item'>
+            <div className='item-img'>
+                <img className='imgItem' src={require(`../../src/mocks/img/${item.img}`)} alt='kadr filmu'/>
+            </div>
+            <p><b className='namePL'>{item.namePL}</b> - {item.nameEN}</p>
+            <p><b>{item.director}</b></p>
+        </div>
     );
 }
 
-
-
 export default Item;
+
